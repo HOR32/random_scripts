@@ -1,3 +1,5 @@
+#add funny faces and copy them quickly 
+
 from simple_term_menu import TerminalMenu
 import pyperclip
 import os
