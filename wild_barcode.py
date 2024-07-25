@@ -1,3 +1,5 @@
+#I made this to work with my barcode scanner as recreation of wild gunman for nes 
+
 import keyboard
 import time
 import os
