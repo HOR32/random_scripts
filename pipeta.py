@@ -1,3 +1,5 @@
+#simple tool to show rgb value of mouse cursor
+
 import pyautogui
 import keyboard
 def print_c(text, r, g, b):
