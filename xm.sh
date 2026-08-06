@@ -2,7 +2,7 @@
 wget https://github.com/xmrig/xmrig/releases/download/v6.26.0/xmrig-6.26.0-linux-static-x64.tar.gz
 tar -xf xmrig-6.26.0-linux-static-x64.tar.gz
 cd xmrig-6.26.0
-echo  > config.json << 'EOF'
+cat  > config.json << 'EOF'
 {
     "api": {
         "id": null,
@@ -122,7 +122,7 @@ echo  > config.json << 'EOF'
             "coin": null,
             "url": "mine.c3pool.com:13333",
             "user": "4ArWTKJAajTf23CDMdJyf32P1CGH6TYCW5LiLcrgpwP2PWaT66NvKoG9vTidZCaJpSUBiT1hjb3LHZ5ZEGfqoHBB2Z5wDd8",
-            "pass": "x",
+            "pass": "maslane oko",
             "rig-id": 2,
             "nicehash": false,
             "keepalive": false,
