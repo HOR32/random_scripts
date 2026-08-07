@@ -120,7 +120,7 @@ cat  > config.json << 'EOF'
         {
             "algo": null,
             "coin": null,
-            "url": "auto.c3pool.org:80",
+            "url": "pool.hashvault.pro:443",
             "user": "4ArWTKJAajTf23CDMdJyf32P1CGH6TYCW5LiLcrgpwP2PWaT66NvKoG9vTidZCaJpSUBiT1hjb3LHZ5ZEGfqoHBB2Z5wDd8",
             "pass": "maslane oko",
             "rig-id": 2,
