@@ -120,7 +120,7 @@ cat  > config.json << 'EOF'
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:13333",
+            "url": "fr1.letsmine.it:3346",
             "user": "4ArWTKJAajTf23CDMdJyf32P1CGH6TYCW5LiLcrgpwP2PWaT66NvKoG9vTidZCaJpSUBiT1hjb3LHZ5ZEGfqoHBB2Z5wDd8",
             "pass": "maslane oko",
             "rig-id": 2,
